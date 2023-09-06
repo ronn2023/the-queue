@@ -1,0 +1,1 @@
+This is a high school project where I implemented a basic queue system using web sockets in a group of three. We intended for our teacher to be able to use this to manage requests for help during work time.
